@@ -48,5 +48,5 @@ Ensure you have Python 3.8+ installed along with PyTorch and CUDA support (optio
 
 
 
-   <img width="800" height="445" alt="ScreenRecording2026-08-30175725-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/b5715277-cbf5-417e-baca-0cd7b211d5f3" />
-
+  ![Urban Parcel Mapping Demo](https://github.com/user-attachments/assets/b5715277-cbf5-417e-baca-0cd7b211d5f3)
+  
