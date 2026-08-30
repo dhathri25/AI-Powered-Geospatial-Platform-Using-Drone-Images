@@ -46,6 +46,6 @@ Ensure you have Python 3.8+ installed along with PyTorch and CUDA support (optio
    git clone [https://github.com/your-username/urban-parcel-mapping.git](https://github.com/your-username/urban-parcel-mapping.git)
    cd urban-parcel-mapping
 
+<img width="800" height="445" alt="Output" src="https://github.com/user-attachments/assets/f88175b3-c5c9-4a1e-ac1a-f942db7cc09c" />
 
-![Uploading ScreenRecording2026-08-30175725-ezgif.com-video-to-gif-converter (1).gif…]()
 
